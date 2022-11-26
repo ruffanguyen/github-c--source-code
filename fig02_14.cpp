@@ -23,3 +23,4 @@ int main() {
     return 0;   // indicate successful termination
 
 } // end function main
+//thay gi chua ba gia
