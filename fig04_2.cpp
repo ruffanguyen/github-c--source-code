@@ -9,6 +9,5 @@ int main() {
     for (int i = 0; i < arraySize; i++)
         sum += array[i];
     cout << "Total of array elements values is: " << sum << endl;
-    
     return 0;
 }
