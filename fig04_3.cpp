@@ -13,7 +13,6 @@ int main() {
         histogram(array[i]);
         cout << endl;
     }
-    
     return 0;
 }
 
